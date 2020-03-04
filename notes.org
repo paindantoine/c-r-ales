@@ -1,0 +1,72 @@
+* Contexte
+  J'ai 3'000 m² de terrain à disposition pour multiplier des céréales
+  cette année, en 2020.
+
+  L'intention est de semer sous couvert de trèfle blanc, chaque plant
+  à 60cm de distance dans toutes les directions, le 21 juin. La
+  méthode vient de Fukuoka-Bonfils. Le but est de multiplier au plus
+  vite les semences provenant de Changin.
+
+  J'ai également l'intention, en octobre, de resemer les céréales déjà
+  multipliées en 2019-2020, après la récolte de août 2020. Il faut
+  donc prévoir quelques lignes sur la surface totale pour ces céréales
+  (40 variétés x 50 graines x un facteur multiplicateur).
+
+* Trèfle blanc
+  [[https://www.sativa.bio/fr_ch/engrais-verts/trefle-blanc-gr26][Sativa]] indique 100 à 150g par are. Donc pour 30 ares, on a 3 à 4.5
+  kg.
+  
+  Un [[https://le-jardin-des-medicinales.com/cultiver-trefle/][article]] indique que dans une terre humide, il faut seulement
+  quelques jours pour germer. Une autre [[https://www.whperron.com/fr/9862-trefle-blanc.html][page]] indique 15 jours de
+  germination. Un troisième [[https://jardinage.ooreka.fr/plante/voir/822/trefle-blanc][article]] nous dit que le trèfle blanc est
+  semé en mars-avril. Une autre [[http://www.prairies-gnis.org/pages/sursemis_trefle.php][page]] nous indique que le moment idéal
+  pour le semis doit être humide et fait de températures plutôt
+  douces, comme au printemps. La même référence nous parle de passer
+  le rouleau.
+
+* Comment semer
+  Sur 50 graines par variété, je prévois d'en semer 40 en pleine
+  terre, et 10 en semis sous serre pour remplacer ceux qui n'auraient
+  pas germé.
+
+* Questions
+** TODO Est-ce que je peux semer directement sur le trèfle? Faut-il
+   le couper? Est-ce que ça va pourrir?
+** TODO Quand semer le trèfle?
+** TODO Faut-il passer le rouleau après avoir semé le trèfle à la volée?
+    Y-a-t'il un rouleau chez Julia? Il semblerait qu'il faut passser
+    le rouleau.
+** TODO On avait parlé de retourner la terre et de passer la herse, on
+    peut pas juste passer la herse? ça suffit pas?
+** TODO Combien vais-je récolter cette année? Quelle place leur réserver?
+*** Épeautre
+   Je compte mélanger toutes mes variétés d'épeautre. Mon but n'est
+   pas la conservation variété par variété mais la création d'une
+   variabilité génétique importante.
+
+   D'après la [[http://ferme-moyses.alsace/cereales-anciennes/produire-des-varietes-anciennes/][ferme moyses]], 300 à 500 graines, soit 15 à 20 grammes,
+   suffisent pour faire un rang de 5 mètres. La récolte d'un tel rang
+   est alors de 300 à 600g. Soit un facteur de 30 envion.
+   
+   Avec les 600 graines d'épeautre que j'ai semé (50 graines fois 12
+   variétés), soit 30 grammes, je peux donc espérer récolter 18'000
+   graines, soit 900 grammes, donc assez pour 1 rang de 150 mètres, ou
+   3 rangs de 50 mètres. Ou 4 rangs de 37.5m. On leur réserve donc 4
+   rangs espacés de 20cm, donc 1 mètre.
+
+*** Seigle
+    J'ai semé une seule vaiété de seigle. Soit 50 graines. Avec un
+    facteur 30, on arrive à 1'500 graines. Soit environ 1 rang de
+    20m. Ou 4 rangs de 5 mètres. Donc 1m de large et 5m de long.
+*** Amidonniers
+    10 variétés, soit 500 graines. Plutôt mal germé, si on a un
+    facteur 10 c'est bien. Donc 5'000 graines. Donc 1 rang de 60
+    mètres, ou 4 rangs de 15 mètres. Donc on garde un carré de 1m fois
+    15m.
+* Coûts
+  * 5kg de trèfle blanc, de chez [[https://www.sativa.bio/fr_ch/engrais-verts/trefle-blanc-gr26][Sativa]]: CHF 165.34
+
+* Heures
+  * [2020-03-04 Mi] 1530 -> 1630, 1h00. Commande de trèfle blanc
+  * [2020-03-04 Mi] 1555 -> 1620, 0h25. Commencement du planning de
+    culture.
