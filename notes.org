@@ -30,6 +30,8 @@
   pas germé.
 
 * Questions
+** TODO Est-ce que je dois traiter mes semences au cuivre?
+   pour éviter la carie
 ** TODO Est-ce que je peux semer directement sur le trèfle? Faut-il
    le couper? Est-ce que ça va pourrir?
 ** TODO Quand semer le trèfle?
@@ -39,6 +41,11 @@
 ** TODO On avait parlé de retourner la terre et de passer la herse, on
     peut pas juste passer la herse? ça suffit pas?
 ** TODO Combien vais-je récolter cette année? Quelle place leur réserver?
+   Une fois semé les variétés 2018/2019, il reste de la place pour
+   environ 70 variétés. J'ai commandé 32 épeautres pour finir ma
+   collection d'épeautres du Guggisberg, donc reste 38 à trouver. J'ai
+   déjà trois poulards (Asturie H9, L6 et L7). J'en ai trouvé que 29
+   poulards d'hiver. 61 au total, plus mes trois, ça fait 64. 
 *** Épeautre
    Je compte mélanger toutes mes variétés d'épeautre. Mon but n'est
    pas la conservation variété par variété mais la création d'une
@@ -63,10 +70,16 @@
     facteur 10 c'est bien. Donc 5'000 graines. Donc 1 rang de 60
     mètres, ou 4 rangs de 15 mètres. Donc on garde un carré de 1m fois
     15m.
+*** Egrain
+    13 variétés, soit 650 graines. Pluôt mal germé, donc si on a
+    facteur 10 c'est bien. Donc 6'500 graines. Donc 1 rang de 80
+    mètres, ou 4 rangs de 20 mètres.
 * Coûts
   * 5kg de trèfle blanc, de chez [[https://www.sativa.bio/fr_ch/engrais-verts/trefle-blanc-gr26][Sativa]]: CHF 165.34
 
 * Heures
-  * [2020-03-04 Mi] 1530 -> 1630, 1h00. Commande de trèfle blanc
+  * [2020-03-04 Mi] 20h30 -> 21h15, 0h45. Sélection et commande des
+    poulards.
   * [2020-03-04 Mi] 1555 -> 1620, 0h25. Commencement du planning de
     culture.
+  * [2020-03-04 Mi] 1530 -> 1630, 1h00. Commande de trèfle blanc
